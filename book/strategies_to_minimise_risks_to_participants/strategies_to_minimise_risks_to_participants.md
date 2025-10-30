@@ -22,12 +22,12 @@ An informed consent form (ICF) is standard practice used to mitigate risks for i
 The general structure of an ICF is as follows:  
 
 - **Intro**: explains who you are & research partners in the study.
-- **The Topic**: explains what are you studying & what you  want to find out.
-- **The Protocol**: explains what are you asking people to do and potential risks involved.
+- **The Topic**: explains what you are studying & what you want to find out.
+- **The Protocol**: explains what you are asking people to do and potential risks involved.
 - **The Data**: to be collected.
 - **Participants’ Rights**: explains that participants can exit the study at any time with no negative consequences.
 - **Researcher's Contact Information**: gives participants a way to contact you if they have concerns or complaints.
-- **The last line** asks for the participant's signature (can include the date).
+- **Participant's signature** the participant signs to indicate they have read and understand the ICF (can include the date).
 
 Visit [this](https://www.tudelft.nl/over-tu-delft/strategie/integriteitsbeleid/human-research-ethics/informed-consent-templates-and-guide) link to see the Human Research Ethics Committee's templates and guidance.
 
@@ -41,7 +41,7 @@ An ICF is only effective if it clearly informs your participants: **people need 
 
 #### Implied Consent via an Opening Statement
 
-For anonymous surveys, an opening statement should be used instead of a signed informed consent letter. If your survey will not collect directly identifiable details like participants’ names/contact information, an opening statement is recommended because it actually minimises the collection of directly identifiable personal data. An opening statement functions like a cover page to the survey. Just like an informed consent form, an opening statement should clearly summarize the purpose of the study, how the data will be used and processed, how the data will be stored and protected, and for how long.
+For anonymous surveys, an opening statement should be used instead of a signed informed consent form. If your survey will not collect directly identifiable details like participants’ names/contact information, an opening statement is recommended because it actually minimises the collection of directly identifiable personal data. An opening statement functions like a cover page to the survey. Just like an informed consent form, an opening statement should clearly summarize the purpose of the study, how the data will be used and processed, how the data will be stored and protected, and for how long.
 
 The main difference is that participants do not give their name or signature. Instead, they are asked to imply their consent by clicking a button to proceed to the start of the survey.
 
@@ -51,7 +51,7 @@ If you cannot obtain informed consent, for instance, if you plan to re-use data 
 
 ### Risk Reduction Strategy #2: Anonymising & Pseudonymising Personal Data
 
-**Anonymisation** is the process of modifyng/erasing all personal data that may be traceable to a unique person in such a way that it is no longer possible to link it to a specific research participant. Anonymisation is permanent and irreversible. After a data set is anonymised it's no longer considered personal data because the information cannot be traced back to any single participant. Anonymisation makes it possible to store, process, and share without exposing people's personal data. 
+**Anonymisation** is the process of modifying/erasing all personal data that may be traceable to a unique person in such a way that it is no longer possible to link it to a specific research participant. Anonymisation is permanent and irreversible. After a data set is anonymised it's no longer considered personal data because the information cannot be traced back to any single participant. Anonymisation makes it possible to store, process, and share without exposing people's personal data. 
 
 - *Example 1*: In a large-scale survey on students’ learning experiences across universities, full anonymisation means removing all personal data that could be linked back to an individual. For example, deleting student ID numbers, email addresses, and names of supervisors mentioned in responses. 
 
@@ -61,7 +61,7 @@ If you cannot obtain informed consent, for instance, if you plan to re-use data 
 
 **Pseudonymisation** means that a researcher replaces certain personal data with anonymous identifiers such as number or letter combinations in a way that the personal data can't point to a specific subject without additional information. As part of pseudonymisation the researcher also aggregates the data or replaces specific details with more general categories. 
 
-- *Example*: A researcher recorded participants’ last names. To pseudonymise the data, she replaces the last names with number codes and creates a key showing the code for each name. Pseudonymised data can be share with restricted access, with participants' consent. She must then store the key in a secure location and control access to it since the key allows for reidentification of participants. 
+- *Example*: A researcher recorded participants’ last names. To pseudonymise the data, she replaces the last names with number codes and creates a key showing the code for each name. Pseudonymised data can be shared with restricted access, with participants' consent. She must then store the key in a secure location and control access to it since the key allows for reidentification of participants. 
 
 This example illustrates that pseudonymisation is **reversible** (with the key). This is why **pseudonymised data is still considered personal data.**
 
@@ -75,7 +75,7 @@ Secure data storage practices are a key risk mitigation strategy. Secure storage
 
 The following gives an overview of recommended storage platforms for master’s students at TU Delft:   
 
-#### Recommended Storage Platforms
+#### Recommended Storage Solutions
 
 ```{dropdown} Project Folder (U:) Drive
 
@@ -142,7 +142,7 @@ The following gives an overview of recommended storage platforms for master’s 
 
 - Remember that a personal data breach or leak can lead to serious consequences. 
 
-#### General storage best practices
+#### Best Practices for Storage
 
 - Whenever possible, directly identifiable details should be stored separately from indirectly identifiable information in order to decrease the potential for reidentification of participants.  
     - For example: informed consent forms with participants’ names and signatures should be stored in a secure folder separate from the other raw data. The same rule applies to the keys for pseudonymised data. 

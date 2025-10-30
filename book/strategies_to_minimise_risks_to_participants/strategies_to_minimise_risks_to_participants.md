@@ -1,4 +1,4 @@
-# Strategies to minimise risks to participants
+# Strategies to Minimise Risk
 
 ## Research Ethics: Minimising Risks
 
